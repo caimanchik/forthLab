@@ -64,7 +64,7 @@
 
 Графики зависимости количества эпох от ошибки обучения
 
-<img width="200" alt="Снимок экрана 2022-12-02 в 18 24 07" src="https://user-images.githubusercontent.com/79734984/205304000-f014801a-a885-4e1c-b764-63fc9db3efab.png"> <img width="200" alt="Снимок экрана 2022-12-02 в 18 24 07" src="https://user-images.githubusercontent.com/79734984/205303994-cfb4dc8a-2dfe-49cc-b305-2c82ae096f64.png"> <img width="200" alt="Снимок экрана 2022-12-02 в 18 24 07" src="https://user-images.githubusercontent.com/79734984/205303997-f3a3ac79-dca5-4912-841b-f8a793228a7a.png"> <img width="200" alt="Снимок экрана 2022-12-02 в 18 24 07" src="https://user-images.githubusercontent.com/79734984/205304002-6d8a8bd3-5d53-42e2-8a29-08f3dec6d049.png">
+<img width="400" alt="Снимок экрана 2022-12-02 в 18 24 07" src="https://user-images.githubusercontent.com/79734984/205304000-f014801a-a885-4e1c-b764-63fc9db3efab.png"> <img width="400" alt="Снимок экрана 2022-12-02 в 18 24 07" src="https://user-images.githubusercontent.com/79734984/205303994-cfb4dc8a-2dfe-49cc-b305-2c82ae096f64.png"> <img width="400" alt="Снимок экрана 2022-12-02 в 18 24 07" src="https://user-images.githubusercontent.com/79734984/205303997-f3a3ac79-dca5-4912-841b-f8a793228a7a.png"> <img width="400" alt="Снимок экрана 2022-12-02 в 18 24 07" src="https://user-images.githubusercontent.com/79734984/205304002-6d8a8bd3-5d53-42e2-8a29-08f3dec6d049.png">
 
 Количество эпох зависит от того, когда веса в перцептроне примут те значения, при которых ошибка станет равной нулю. 
 
